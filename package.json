@@ -2,7 +2,6 @@
   "name": "@nteract/data-explorer",
   "version": "8.2.9",
   "description": "Transform for data resource JSON",
-  "main": "lib/index.js",
   "module": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
